@@ -1,0 +1,170 @@
+.result,
+.result * {
+  box-sizing: border-box;
+}
+.result {
+  background: #ffffff;
+  width: auto;
+  height: 77.5rem;
+  position: relative;
+  overflow: hidden;
+  align-items: center;
+}
+.copy-right {
+  background: #d9d9d9;
+  padding: 10px 650px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+.result .copyright {
+  color: #3e3e3e;
+  text-align: left;
+  font: 400 0.9375rem "BM DoHyeon", sans-serif;
+  position: relative;
+}
+.result .policecar-insideimg {
+  border-radius: 0.625rem;
+  opacity: 0.30000001192092896;
+  height: 70rem;
+  position: absolute;
+  left: -7.875rem;
+  top: 4.375rem;
+}
+.result-subtitle {
+  color: #26a6fe;
+  text-align: left;
+  font: 400 1.5625rem "BM DoHyeon", sans-serif;
+  position: absolute;
+  left: 38.5rem;
+  top: 11.69375rem;
+  width: 16.4375rem;
+  height: 1.939375rem;
+}
+.resul-title {
+  color: #000000;
+  text-align: left;
+  font: 400 1.875rem "BM DoHyeon", sans-serif;
+  position: absolute;
+  left: 27.5rem;
+  top: 14.50875rem;
+  width: 40.25rem;
+  height: 2.314375rem;
+}
+.screen {
+  width: 55.75rem;
+  height: 40.34875rem;
+  position: absolute;
+  left: 23.0625rem;
+  top: 22.140625rem;
+}
+.display-screen {
+  background: #ffffff;
+  border-radius: 1.875rem;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.9375rem;
+  width: 55.75rem;
+  height: 40.34875rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+.video {
+  position: absolute;
+  inset: 0;
+}
+.video-bg {
+  background: #d9d9d9;
+  border-radius: 0.625rem;
+  width: 46.75rem;
+  height: 24.271875rem;
+  position: absolute;
+  left: 4.4375rem;
+  top: 5.129375rem;
+}
+.playing-video {
+  color: #000000;
+  text-align: center;
+  font: var(--basic, 400 1.25rem "BM DoHyeon", sans-serif);
+  position: absolute;
+  left: 18.305rem;
+  top: 16.4525rem;
+  width: 19.1575rem;
+}
+.nav-bar-w-home {
+  width: 100%;
+  height: 4.375rem;
+  position: fixed;
+  left: 0;
+  top: 0rem;
+}
+.nav-bar-bg {
+  background: rgba(153, 153, 153, 0.35);
+  width: 100%;
+  height: 4.375rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+.data {
+  color: #404040;
+  text-align: left;
+  font: var(--basic, 400 1.25rem "BM DoHyeon", sans-serif);
+  position: absolute;
+  left: 61.5625rem;
+  top: 1.5625rem;
+}
+.simulate {
+  color: #404040;
+  text-align: left;
+  font: var(--basic, 400 1.25rem "BM DoHyeon", sans-serif);
+  position: absolute;
+  left: 67.4375rem;
+  top: 1.5625rem;
+}
+.service {
+  color: #404040;
+  text-align: left;
+  font: 400 1.25rem "BM DoHyeon", sans-serif;
+  position: absolute;
+  left: 53.6875rem;
+  top: 1.5625rem;
+}
+.githubmark {
+  width: 2.8125rem;
+  height: 2.674375rem;
+  position: absolute;
+  left: 76.125rem;
+  top: 1.0625rem;
+}
+.home {
+  color: #404040;
+  text-align: left;
+  font: 400 1.25rem "BM DoHyeon", sans-serif;
+  position: absolute;
+  left: 12.1875rem;
+  top: 1.5625rem;
+}
+.home-text {
+  color: #404040;
+  text-align: left;
+  font: 400 1.25rem "BM DoHyeon", sans-serif;
+  position: absolute;
+  left: 16.8125rem;
+  top: 1.5625rem;
+}
+.home-icon {
+  width: 2.1875rem;
+  height: 2.1875rem;
+  position: absolute;
+  left: 9.0625rem;
+  top: 1.0625rem;
+}
